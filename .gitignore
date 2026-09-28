@@ -1,0 +1,20 @@
+.env
+config.ini
+
+# 本机编辑器与 Python 缓存
+.idea/
+.vscode/
+.claude/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# 运行时文件
+*.log
+logs/
+mysql_qa/bm25_index.json
+rag_qa/core/results/
+rag_qa/core/test_qa_results.json
+
+# 本地模型权重约 2 GB，单独获取
+model/

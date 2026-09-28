@@ -1,0 +1,374 @@
+{
+  "minecraft:type": {
+    "id": "minecraft:type",
+    "type": "mob",
+    "name_zh": "Type: `",
+    "name_en": "Type: `",
+    "aliases": [
+      "Type: `"
+    ],
+    "properties": {},
+    "node_type": "entity",
+    "created_at": "2026-08-24T10:14:04.446676",
+    "updated_at": "2026-08-24T10:14:04.446676",
+    "version": "1.0",
+    "sources": []
+  },
+  "minecraft:a_fiery_hostile": {
+    "id": "minecraft:a_fiery_hostile",
+    "type": "mob",
+    "name_zh": "A fiery hostile",
+    "name_en": "A fiery hostile",
+    "aliases": [
+      "A fiery hostile"
+    ],
+    "properties": {},
+    "node_type": "entity",
+    "created_at": "2026-08-24T10:14:04.446676",
+    "updated_at": "2026-08-24T10:14:04.446676",
+    "version": "1.0",
+    "sources": []
+  },
+  "minecraft:it": {
+    "id": "minecraft:it",
+    "type": "mob",
+    "name_zh": "It",
+    "name_en": "It",
+    "aliases": [
+      "It"
+    ],
+    "properties": {},
+    "node_type": "entity",
+    "created_at": "2026-08-24T10:14:04.446676",
+    "updated_at": "2026-08-24T10:14:04.446676",
+    "version": "1.0",
+    "sources": []
+  },
+  "minecraft:a_hostile": {
+    "id": "minecraft:a_hostile",
+    "type": "mob",
+    "name_zh": "A hostile",
+    "name_en": "A hostile",
+    "aliases": [
+      "A hostile"
+    ],
+    "properties": {},
+    "node_type": "entity",
+    "created_at": "2026-08-24T10:14:04.446676",
+    "updated_at": "2026-08-24T10:14:04.446676",
+    "version": "1.0",
+    "sources": []
+  },
+  "minecraft:diamond": {
+    "id": "minecraft:diamond",
+    "type": "item",
+    "name_zh": "钻石",
+    "name_en": "钻石",
+    "aliases": [
+      "diamond"
+    ],
+    "properties": {},
+    "node_type": "entity",
+    "created_at": "2026-08-24T10:14:04.446676",
+    "updated_at": "2026-08-24T10:14:04.446676",
+    "version": "1.0",
+    "sources": []
+  },
+  "minecraft:a_large_nether": {
+    "id": "minecraft:a_large_nether",
+    "type": "structure",
+    "name_zh": "A large Nether",
+    "name_en": "A large Nether",
+    "aliases": [
+      "A large Nether"
+    ],
+    "properties": {},
+    "node_type": "entity",
+    "created_at": "2026-08-24T10:14:04.446676",
+    "updated_at": "2026-08-24T10:14:04.446676",
+    "version": "1.0",
+    "sources": []
+  },
+  "minecraft:regions_for_nether": {
+    "id": "minecraft:regions_for_nether",
+    "type": "structure",
+    "name_zh": "regions for Nether",
+    "name_en": "regions for Nether",
+    "aliases": [
+      "regions for Nether"
+    ],
+    "properties": {},
+    "node_type": "entity",
+    "created_at": "2026-08-24T10:14:04.446676",
+    "updated_at": "2026-08-24T10:14:04.446676",
+    "version": "1.0",
+    "sources": []
+  },
+  "minecraft:a_dangerous_volcanic_fungal": {
+    "id": "minecraft:a_dangerous_volcanic_fungal",
+    "type": "biome",
+    "name_zh": "A dangerous volcanic fungal",
+    "name_en": "A dangerous volcanic fungal",
+    "aliases": [
+      "A dangerous volcanic fungal"
+    ],
+    "properties": {},
+    "node_type": "entity",
+    "created_at": "2026-08-24T10:14:04.446676",
+    "updated_at": "2026-08-24T10:14:04.446676",
+    "version": "1.0",
+    "sources": []
+  },
+  "chunk_minecraft-wiki-blaze_0": {
+    "id": "chunk_minecraft-wiki-blaze_0",
+    "type": "content",
+    "content": "# Blaze\n- Type: `Mob`\n- Mob type: `Monster`\n- Source: https://minecraft.wiki/w/Blaze\n- Retrieved at: `2026-08-23T00:00:00Z`\n## Summary\nA fiery hostile mob found in Nether fortresses and the only source of blaze rods.\n## Key Facts\n- It has 20 HP.\n- It spawns in Nether fortresses at light level 11 or less.\n- It attacks with three small fireballs or melee attacks.\n- It drops blaze rods and 10 XP when killed by a player or tamed wolf.\n- It can ride boats and minecarts.\n## Version Notes",
+    "title": "Blaze",
+    "source_id": "minecraft-wiki-blaze",
+    "metadata": {
+      "source_id": "minecraft-wiki-blaze",
+      "title": "Blaze",
+      "version": "",
+      "edition": "",
+      "chunk_type": "paragraph"
+    },
+    "node_type": "content",
+    "created_at": "2026-08-24T10:14:04.447678",
+    "updated_at": "2026-08-24T10:14:04.447678",
+    "version": "1.0",
+    "sources": [
+      ""
+    ]
+  },
+  "chunk_minecraft-wiki-blaze_1": {
+    "id": "chunk_minecraft-wiki-blaze_1",
+    "type": "content",
+    "content": "- Java Edition and Bedrock Edition use different fortress spawn group sizes.\n- Blaze spawner platforms can generate inside Nether fortresses.",
+    "title": "Blaze",
+    "source_id": "minecraft-wiki-blaze",
+    "metadata": {
+      "source_id": "minecraft-wiki-blaze",
+      "title": "Blaze",
+      "version": "",
+      "edition": "",
+      "chunk_type": "paragraph"
+    },
+    "node_type": "content",
+    "created_at": "2026-08-24T10:14:04.447678",
+    "updated_at": "2026-08-24T10:14:04.447678",
+    "version": "1.0",
+    "sources": [
+      ""
+    ]
+  },
+  "chunk_minecraft-wiki-crafting-table_2": {
+    "id": "chunk_minecraft-wiki-crafting-table_2",
+    "type": "content",
+    "content": "# Crafting Table\n- Type: `Block`\n- Source: https://minecraft.wiki/w/Crafting_Table\n- Retrieved at: `2026-08-23T00:00:00Z`\n## Summary\nA utility block that unlocks the full crafting grid.\n## Key Facts\n- It gives access to all crafting recipes, including ones unavailable in the inventory grid.\n- It is best broken with an axe.\n- It is renewable and stackable to 64.\n- It naturally generates in structures such as swamp huts, igloos, trail ruins, and trial chambers.",
+    "title": "Crafting Table",
+    "source_id": "minecraft-wiki-crafting-table",
+    "metadata": {
+      "source_id": "minecraft-wiki-crafting-table",
+      "title": "Crafting Table",
+      "version": "",
+      "edition": "",
+      "chunk_type": "paragraph"
+    },
+    "node_type": "content",
+    "created_at": "2026-08-24T10:14:04.447678",
+    "updated_at": "2026-08-24T10:14:04.447678",
+    "version": "1.0",
+    "sources": [
+      ""
+    ]
+  },
+  "chunk_minecraft-wiki-crafting-table_3": {
+    "id": "chunk_minecraft-wiki-crafting-table_3",
+    "type": "content",
+    "content": "- It can be used as furnace fuel and as a crafting ingredient for crafters.\n## Version Notes\n- In Java Edition 1.20.3, it can be used to craft crafters.\n- In Java Edition 23w07a, the recipe is unlocked immediately on world creation.\n- In Java Edition 1.14, banner dyeing moved to the loom.",
+    "title": "Crafting Table",
+    "source_id": "minecraft-wiki-crafting-table",
+    "metadata": {
+      "source_id": "minecraft-wiki-crafting-table",
+      "title": "Crafting Table",
+      "version": "",
+      "edition": "",
+      "chunk_type": "paragraph"
+    },
+    "node_type": "content",
+    "created_at": "2026-08-24T10:14:04.447678",
+    "updated_at": "2026-08-24T10:14:04.447678",
+    "version": "1.0",
+    "sources": [
+      ""
+    ]
+  },
+  "chunk_minecraft-wiki-creeper_4": {
+    "id": "chunk_minecraft-wiki-creeper_4",
+    "type": "content",
+    "content": "# Creeper\n- Type: `Mob`\n- Mob type: `Monster`\n- Source: https://minecraft.wiki/w/Creeper\n- Retrieved at: `2026-08-23T00:00:00Z`\n## Summary\nA hostile mob that silently approaches players and explodes when close.\n## Key Facts\n- It has 20 HP.\n- It naturally spawns in the Overworld at light level 0.\n- Its explosion can destroy blocks and deal major damage.\n- A lightning strike can turn it into a charged creeper.\n- It drops gunpowder and can rarely drop music discs or creeper heads.\n## Version Notes",
+    "title": "Creeper",
+    "source_id": "minecraft-wiki-creeper",
+    "metadata": {
+      "source_id": "minecraft-wiki-creeper",
+      "title": "Creeper",
+      "version": "",
+      "edition": "",
+      "chunk_type": "paragraph"
+    },
+    "node_type": "content",
+    "created_at": "2026-08-24T10:14:04.447678",
+    "updated_at": "2026-08-24T10:14:04.447678",
+    "version": "1.0",
+    "sources": [
+      ""
+    ]
+  },
+  "chunk_minecraft-wiki-creeper_5": {
+    "id": "chunk_minecraft-wiki-creeper_5",
+    "type": "content",
+    "content": "- In Java Edition, wearing a creeper head reduces detection range by 50%.\n- In Bedrock Edition, charged creeper explosions can cause all valid killed mobs to drop their heads.",
+    "title": "Creeper",
+    "source_id": "minecraft-wiki-creeper",
+    "metadata": {
+      "source_id": "minecraft-wiki-creeper",
+      "title": "Creeper",
+      "version": "",
+      "edition": "",
+      "chunk_type": "paragraph"
+    },
+    "node_type": "content",
+    "created_at": "2026-08-24T10:14:04.447678",
+    "updated_at": "2026-08-24T10:14:04.447678",
+    "version": "1.0",
+    "sources": [
+      ""
+    ]
+  },
+  "chunk_minecraft-wiki-diamond-pickaxe_6": {
+    "id": "chunk_minecraft-wiki-diamond-pickaxe_6",
+    "type": "content",
+    "content": "# Diamond Pickaxe\n- Type: `Item`\n- Source: https://minecraft.wiki/w/Diamond_Pickaxe\n- Retrieved at: `2026-08-23T00:00:00Z`\n## Summary\nA high-tier pickaxe crafted from diamonds and sticks.\n## Key Facts\n- It is crafted from diamonds and sticks.\n- It has mining level 3 and can mine obsidian and ancient debris.\n- Its attack damage is 5 HP in Java Edition and 6 HP in Bedrock Edition.\n- Its durability is 1561 in Java Edition and 1562 in Bedrock Edition.\n- It can be upgraded into a netherite pickaxe.",
+    "title": "Diamond Pickaxe",
+    "source_id": "minecraft-wiki-diamond-pickaxe",
+    "metadata": {
+      "source_id": "minecraft-wiki-diamond-pickaxe",
+      "title": "Diamond Pickaxe",
+      "version": "",
+      "edition": "",
+      "chunk_type": "paragraph"
+    },
+    "node_type": "content",
+    "created_at": "2026-08-24T10:14:04.447678",
+    "updated_at": "2026-08-24T10:14:04.447678",
+    "version": "1.0",
+    "sources": [
+      ""
+    ]
+  },
+  "chunk_minecraft-wiki-diamond-pickaxe_7": {
+    "id": "chunk_minecraft-wiki-diamond-pickaxe_7",
+    "type": "content",
+    "content": "## Version Notes\n- It is not stackable.\n- It can appear in generated loot in Trial Chambers, End Cities, and Bastion Remnants.",
+    "title": "Diamond Pickaxe",
+    "source_id": "minecraft-wiki-diamond-pickaxe",
+    "metadata": {
+      "source_id": "minecraft-wiki-diamond-pickaxe",
+      "title": "Diamond Pickaxe",
+      "version": "",
+      "edition": "",
+      "chunk_type": "paragraph"
+    },
+    "node_type": "content",
+    "created_at": "2026-08-24T10:14:04.447678",
+    "updated_at": "2026-08-24T10:14:04.447678",
+    "version": "1.0",
+    "sources": [
+      ""
+    ]
+  },
+  "chunk_minecraft-wiki-nether-fortress_8": {
+    "id": "chunk_minecraft-wiki-nether-fortress_8",
+    "type": "content",
+    "content": "# Nether Fortress\n- Type: `Structure`\n- Source: https://minecraft.wiki/w/Nether_Fortress\n- Retrieved at: `2026-08-23T00:00:00Z`\n## Summary\nA large Nether structure made of Nether bricks with bridges, corridors, and towers.\n## Key Facts\n- It generates in all Nether biomes.\n- It is made of Nether bricks and related fortress blocks.\n- It is the only place where blazes and wither skeletons spawn.\n- It contains Nether wart.\n- Its layout includes bridges, corridors, and towers.\n## Version Notes",
+    "title": "Nether Fortress",
+    "source_id": "minecraft-wiki-nether-fortress",
+    "metadata": {
+      "source_id": "minecraft-wiki-nether-fortress",
+      "title": "Nether Fortress",
+      "version": "",
+      "edition": "",
+      "chunk_type": "paragraph"
+    },
+    "node_type": "content",
+    "created_at": "2026-08-24T10:14:04.447678",
+    "updated_at": "2026-08-24T10:14:04.447678",
+    "version": "1.0",
+    "sources": [
+      ""
+    ]
+  },
+  "chunk_minecraft-wiki-nether-fortress_9": {
+    "id": "chunk_minecraft-wiki-nether-fortress_9",
+    "type": "content",
+    "content": "- Java Edition uses 432x432 structure regions for Nether structure generation.\n- Bedrock Edition uses 480x480 structure regions for Nether structure generation.\n- In Java Edition, chickens can rarely spawn through jockeys in fortresses.",
+    "title": "Nether Fortress",
+    "source_id": "minecraft-wiki-nether-fortress",
+    "metadata": {
+      "source_id": "minecraft-wiki-nether-fortress",
+      "title": "Nether Fortress",
+      "version": "",
+      "edition": "",
+      "chunk_type": "paragraph"
+    },
+    "node_type": "content",
+    "created_at": "2026-08-24T10:14:04.447678",
+    "updated_at": "2026-08-24T10:14:04.447678",
+    "version": "1.0",
+    "sources": [
+      ""
+    ]
+  },
+  "chunk_minecraft-wiki-the-nether_10": {
+    "id": "chunk_minecraft-wiki-the-nether_10",
+    "type": "content",
+    "content": "# The Nether\n- Type: `Dimension`\n- Source: https://minecraft.wiki/w/The_Nether\n- Retrieved at: `2026-08-23T00:00:00Z`\n## Summary\nA dangerous volcanic fungal dimension with lava seas, unique biomes, and hostile mobs.\n## Key Facts\n- It contains fire, lava seas, fungi, unique mobs, structures, resources, and biomes.\n- It is accessed through a Nether portal built from obsidian.\n- Travel in the Nether uses an 8:1 horizontal ratio versus the Overworld.\n- It has no daylight cycle and no weather.",
+    "title": "The Nether",
+    "source_id": "minecraft-wiki-the-nether",
+    "metadata": {
+      "source_id": "minecraft-wiki-the-nether",
+      "title": "The Nether",
+      "version": "",
+      "edition": "",
+      "chunk_type": "paragraph"
+    },
+    "node_type": "content",
+    "created_at": "2026-08-24T10:14:04.447678",
+    "updated_at": "2026-08-24T10:14:04.447678",
+    "version": "1.0",
+    "sources": [
+      ""
+    ]
+  },
+  "chunk_minecraft-wiki-the-nether_11": {
+    "id": "chunk_minecraft-wiki-the-nether_11",
+    "type": "content",
+    "content": "- Beds explode in the Nether, while respawn anchors can be used to respawn there.\n## Version Notes\n- Java Edition build limit in the Nether is 256 blocks.\n- Bedrock Edition build limit in the Nether is 128 blocks.",
+    "title": "The Nether",
+    "source_id": "minecraft-wiki-the-nether",
+    "metadata": {
+      "source_id": "minecraft-wiki-the-nether",
+      "title": "The Nether",
+      "version": "",
+      "edition": "",
+      "chunk_type": "paragraph"
+    },
+    "node_type": "content",
+    "created_at": "2026-08-24T10:14:04.447678",
+    "updated_at": "2026-08-24T10:14:04.447678",
+    "version": "1.0",
+    "sources": [
+      ""
+    ]
+  }
+}

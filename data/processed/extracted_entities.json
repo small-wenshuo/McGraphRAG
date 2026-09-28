@@ -1,0 +1,138 @@
+[
+  {
+    "id": "minecraft:type",
+    "name": "Type: `",
+    "type": "mob",
+    "aliases": [
+      "Type: `"
+    ],
+    "position": [
+      10,
+      20
+    ],
+    "confidence": 0.8,
+    "evidence_text": "Type: `Mob",
+    "source_chunk_id": "minecraft-wiki-blaze_0",
+    "source_title": "Blaze",
+    "source_url": ""
+  },
+  {
+    "id": "minecraft:a_fiery_hostile",
+    "name": "A fiery hostile",
+    "type": "mob",
+    "aliases": [
+      "A fiery hostile"
+    ],
+    "position": [
+      135,
+      154
+    ],
+    "confidence": 0.8,
+    "evidence_text": "A fiery hostile mob",
+    "source_chunk_id": "minecraft-wiki-blaze_0",
+    "source_title": "Blaze",
+    "source_url": ""
+  },
+  {
+    "id": "minecraft:it",
+    "name": "It",
+    "type": "mob",
+    "aliases": [
+      "It"
+    ],
+    "position": [
+      248,
+      260
+    ],
+    "confidence": 0.8,
+    "evidence_text": "It spawns in",
+    "source_chunk_id": "minecraft-wiki-blaze_0",
+    "source_title": "Blaze",
+    "source_url": ""
+  },
+  {
+    "id": "minecraft:a_hostile",
+    "name": "A hostile",
+    "type": "mob",
+    "aliases": [
+      "A hostile"
+    ],
+    "position": [
+      139,
+      152
+    ],
+    "confidence": 0.8,
+    "evidence_text": "A hostile mob",
+    "source_chunk_id": "minecraft-wiki-creeper_4",
+    "source_title": "Creeper",
+    "source_url": ""
+  },
+  {
+    "id": "minecraft:diamond",
+    "name": "钻石",
+    "type": "item",
+    "aliases": [
+      "diamond"
+    ],
+    "position": [
+      27,
+      33
+    ],
+    "confidence": 0.8,
+    "evidence_text": "Item`\n",
+    "source_chunk_id": "minecraft-wiki-diamond-pickaxe_6",
+    "source_title": "Diamond Pickaxe",
+    "source_url": ""
+  },
+  {
+    "id": "minecraft:a_large_nether",
+    "name": "A large Nether",
+    "type": "structure",
+    "aliases": [
+      "A large Nether"
+    ],
+    "position": [
+      139,
+      163
+    ],
+    "confidence": 0.8,
+    "evidence_text": "A large Nether structure",
+    "source_chunk_id": "minecraft-wiki-nether-fortress_8",
+    "source_title": "Nether Fortress",
+    "source_url": ""
+  },
+  {
+    "id": "minecraft:regions_for_nether",
+    "name": "regions for Nether",
+    "type": "structure",
+    "aliases": [
+      "regions for Nether"
+    ],
+    "position": [
+      37,
+      66
+    ],
+    "confidence": 0.8,
+    "evidence_text": " regions for Nether structure",
+    "source_chunk_id": "minecraft-wiki-nether-fortress_9",
+    "source_title": "Nether Fortress",
+    "source_url": ""
+  },
+  {
+    "id": "minecraft:a_dangerous_volcanic_fungal",
+    "name": "A dangerous volcanic fungal",
+    "type": "biome",
+    "aliases": [
+      "A dangerous volcanic fungal"
+    ],
+    "position": [
+      129,
+      166
+    ],
+    "confidence": 0.8,
+    "evidence_text": "A dangerous volcanic fungal dimension",
+    "source_chunk_id": "minecraft-wiki-the-nether_10",
+    "source_title": "The Nether",
+    "source_url": ""
+  }
+]

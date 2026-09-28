@@ -1,0 +1,142 @@
+[
+  {
+    "id": "minecraft-wiki-creeper-2026-08-23",
+    "title": "Creeper",
+    "type": "Mob",
+    "mob_type": "Monster",
+    "edition": "java",
+    "version_range": "1.21.x",
+    "source_url": "https://minecraft.wiki/w/Creeper",
+    "retrieved_at": "2026-08-23T00:00:00Z",
+    "summary": "A hostile mob that silently approaches players and explodes when close.",
+    "key_facts": [
+      "It has 20 HP.",
+      "It naturally spawns in the Overworld at light level 0.",
+      "Its explosion can destroy blocks and deal major damage.",
+      "A lightning strike can turn it into a charged creeper.",
+      "It drops gunpowder and can rarely drop music discs or creeper heads."
+    ],
+    "version_notes": [
+      "In Java Edition, wearing a creeper head reduces detection range by 50%.",
+      "In Bedrock Edition, charged creeper explosions can cause all valid killed mobs to drop their heads."
+    ],
+    "aliases": ["creeper", "苦力怕", "爬行者"]
+  },
+  {
+    "id": "minecraft-wiki-blaze-2026-08-23",
+    "title": "Blaze",
+    "type": "Mob",
+    "mob_type": "Monster",
+    "edition": "java",
+    "version_range": "1.21.x",
+    "source_url": "https://minecraft.wiki/w/Blaze",
+    "retrieved_at": "2026-08-23T00:00:00Z",
+    "summary": "A fiery hostile mob found in Nether fortresses and the only source of blaze rods.",
+    "key_facts": [
+      "It has 20 HP.",
+      "It spawns in Nether fortresses at light level 11 or less.",
+      "It attacks with three small fireballs or melee attacks.",
+      "It drops blaze rods and 10 XP when killed by a player or tamed wolf.",
+      "It can ride boats and minecarts."
+    ],
+    "version_notes": [
+      "Java Edition and Bedrock Edition use different fortress spawn group sizes.",
+      "Blaze spawner platforms can generate inside Nether fortresses."
+    ],
+    "aliases": ["blaze", "烈焰人", "烈焰使者"]
+  },
+  {
+    "id": "minecraft-wiki-diamond-pickaxe-2026-08-23",
+    "title": "Diamond Pickaxe",
+    "type": "Item",
+    "mob_type": null,
+    "edition": "java",
+    "version_range": "1.21.x",
+    "source_url": "https://minecraft.wiki/w/Diamond_Pickaxe",
+    "retrieved_at": "2026-08-23T00:00:00Z",
+    "summary": "A high-tier pickaxe crafted from diamonds and sticks.",
+    "key_facts": [
+      "It is crafted from diamonds and sticks.",
+      "It has mining level 3 and can mine obsidian and ancient debris.",
+      "Its attack damage is 5 HP in Java Edition and 6 HP in Bedrock Edition.",
+      "Its durability is 1561 in Java Edition and 1562 in Bedrock Edition.",
+      "It can be upgraded into a netherite pickaxe."
+    ],
+    "version_notes": [
+      "It is not stackable.",
+      "It can appear in generated loot in structures such as Trial Chambers, End Cities, and Bastion Remnants."
+    ],
+    "aliases": ["diamond pickaxe", "钻石镐", "钻石稿"]
+  },
+  {
+    "id": "minecraft-wiki-crafting-table-2026-08-23",
+    "title": "Crafting Table",
+    "type": "Block",
+    "mob_type": null,
+    "edition": "java",
+    "version_range": "1.21.x",
+    "source_url": "https://minecraft.wiki/w/Crafting_Table",
+    "retrieved_at": "2026-08-23T00:00:00Z",
+    "summary": "A utility block that unlocks the full crafting grid.",
+    "key_facts": [
+      "It gives access to all crafting recipes, including ones unavailable in the inventory grid.",
+      "It is best broken with an axe.",
+      "It is renewable and stackable to 64.",
+      "It naturally generates in structures such as swamp huts, igloos, trail ruins, and trial chambers.",
+      "It can be used as furnace fuel and as a crafting ingredient for crafters."
+    ],
+    "version_notes": [
+      "In Java Edition 1.20.3, it can be used to craft crafters.",
+      "In Java Edition 23w07a, the recipe is unlocked immediately on world creation.",
+      "In Java Edition 1.14, banner dyeing moved to the loom."
+    ],
+    "aliases": ["crafting table", "工作台", "作业台"]
+  },
+  {
+    "id": "minecraft-wiki-the-nether-2026-08-23",
+    "title": "The Nether",
+    "type": "Dimension",
+    "mob_type": null,
+    "edition": "java",
+    "version_range": "1.21.x",
+    "source_url": "https://minecraft.wiki/w/The_Nether",
+    "retrieved_at": "2026-08-23T00:00:00Z",
+    "summary": "A dangerous volcanic fungal dimension with lava seas, unique biomes, and hostile mobs.",
+    "key_facts": [
+      "It contains fire, lava seas, fungi, unique mobs, structures, resources, and biomes.",
+      "It is accessed through a Nether portal built from obsidian.",
+      "Travel in the Nether uses an 8:1 horizontal ratio versus the Overworld.",
+      "It has no daylight cycle and no weather.",
+      "Beds explode in the Nether, while respawn anchors can be used to respawn there."
+    ],
+    "version_notes": [
+      "Java Edition build limit in the Nether is 256 blocks.",
+      "Bedrock Edition build limit in the Nether is 128 blocks."
+    ],
+    "aliases": ["the nether", "Nether", "下界", "地狱"]
+  },
+  {
+    "id": "minecraft-wiki-nether-fortress-2026-08-23",
+    "title": "Nether Fortress",
+    "type": "Structure",
+    "mob_type": null,
+    "edition": "java",
+    "version_range": "1.21.x",
+    "source_url": "https://minecraft.wiki/w/Nether_Fortress",
+    "retrieved_at": "2026-08-23T00:00:00Z",
+    "summary": "A large Nether structure made of Nether bricks with bridges, corridors, and towers.",
+    "key_facts": [
+      "It generates in all Nether biomes.",
+      "It is made of Nether bricks and related fortress blocks.",
+      "It is the only place where blazes and wither skeletons spawn.",
+      "It contains Nether wart.",
+      "Its layout includes bridges, corridors, and towers."
+    ],
+    "version_notes": [
+      "Java Edition uses 432x432 structure regions for Nether structure generation.",
+      "Bedrock Edition uses 480x480 structure regions for Nether structure generation.",
+      "In Java Edition, chickens can rarely spawn through jockeys in fortresses."
+    ],
+    "aliases": ["nether fortress", "下界要塞", "地狱要塞"]
+  }
+]

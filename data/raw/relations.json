@@ -1,0 +1,6 @@
+[
+  {"subject_id":"minecraft:creeper","predicate":"DROPS","object_id":"minecraft:gunpowder","evidence_text":"A creeper can drop gunpowder when killed.","confidence":0.98},
+  {"subject_id":"minecraft:blaze","predicate":"DROPS","object_id":"minecraft:blaze_rod","evidence_text":"A blaze can drop blaze rods when killed.","confidence":0.98},
+  {"subject_id":"minecraft:nether_fortress","predicate":"FOUND_IN","object_id":"minecraft:the_nether","evidence_text":"Nether fortresses generate in the Nether.","confidence":0.98},
+  {"subject_id":"minecraft:blaze","predicate":"SPAWNS_IN","object_id":"minecraft:nether_fortress","evidence_text":"Blazes spawn in nether fortresses.","confidence":0.95}
+]

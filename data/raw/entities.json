@@ -1,0 +1,12 @@
+[
+  {"id":"minecraft:diamond","type":"Item","name_zh":"钻石","name_en":"Diamond","aliases":["diamond"],"properties":{"stack_size":64}},
+  {"id":"minecraft:stick","type":"Item","name_zh":"木棍","name_en":"Stick","aliases":["木棒","stick"],"properties":{"stack_size":64}},
+  {"id":"minecraft:diamond_pickaxe","type":"Item","name_zh":"钻石镐","name_en":"Diamond Pickaxe","aliases":["钻石稿","diamond pickaxe"],"properties":{"durability":1561}},
+  {"id":"minecraft:creeper","type":"Mob","name_zh":"苦力怕","name_en":"Creeper","aliases":["爬行者","creeper"],"properties":{"hostile":true}},
+  {"id":"minecraft:gunpowder","type":"Item","name_zh":"火药","name_en":"Gunpowder","aliases":["gunpowder"],"properties":{"stack_size":64}},
+  {"id":"minecraft:blaze","type":"Mob","name_zh":"烈焰人","name_en":"Blaze","aliases":["blaze"],"properties":{"hostile":true}},
+  {"id":"minecraft:blaze_rod","type":"Item","name_zh":"烈焰棒","name_en":"Blaze Rod","aliases":["blaze rod"],"properties":{"stack_size":64}},
+  {"id":"minecraft:nether_fortress","type":"Structure","name_zh":"下界要塞","name_en":"Nether Fortress","aliases":["地狱要塞","nether fortress"],"properties":{}},
+  {"id":"minecraft:the_nether","type":"Dimension","name_zh":"下界","name_en":"The Nether","aliases":["地狱","nether"],"properties":{}},
+  {"id":"minecraft:crafting_table","type":"Block","name_zh":"工作台","name_en":"Crafting Table","aliases":["crafting table"],"properties":{}}
+]

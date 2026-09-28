@@ -1,0 +1,54 @@
+[
+  {
+    "relation_type": "drops",
+    "subject_id": "minecraft:blaze",
+    "subject_name": "烈焰人",
+    "object_id": "minecraft:blaze_rod",
+    "object_name": "烈焰棒",
+    "evidence_text": "# Blaze - Type: `Mob` - Mob type: `Monster` - Source: https://minecraft.wiki/w/Blaze - Retrieved at: `2026-08-23T00:00:00Z` ## Summary A fiery hostile mob found in Nether fortresses and the only source of blaze rods. ## Key Facts - It has 20 HP. - It spawns in Nether fortresses at light level 11 or less. - It attacks with three small fireballs or melee attacks. - It drops blaze rods and 10 XP when killed by a player or tamed wolf. - It can ride boats and minecarts. ## Version Notes",
+    "confidence": 0.9,
+    "source_text": "# Blaze - Type: `Mob` - Mob type: `Monster` - Source: https://minecraft.wiki/w/Blaze - Retrieved at: `2026-08-23T00:00:00Z` ## Summary A fiery hostile mob found in Nether fortresses and the only source of blaze rods. ## Key Facts - It has 20 HP. - It spawns in Nether fortresses at light level 11 or less. - It attacks with three small fireballs or melee attacks. - It drops blaze rods and 10 XP when killed by a player or tamed wolf. - It can ride boats and minecarts. ## Version Notes",
+    "source_chunk_id": "minecraft-wiki-blaze_0",
+    "source_title": "Blaze",
+    "source_url": ""
+  },
+  {
+    "relation_type": "spawns_in",
+    "subject_id": "minecraft:blaze",
+    "subject_name": "烈焰人",
+    "object_id": "minecraft:nether_fortress",
+    "object_name": "下界要塞",
+    "evidence_text": "# Blaze - Type: `Mob` - Mob type: `Monster` - Source: https://minecraft.wiki/w/Blaze - Retrieved at: `2026-08-23T00:00:00Z` ## Summary A fiery hostile mob found in Nether fortresses and the only source of blaze rods. ## Key Facts - It has 20 HP. - It spawns in Nether fortresses at light level 11 or less. - It attacks with three small fireballs or melee attacks. - It drops blaze rods and 10 XP when killed by a player or tamed wolf. - It can ride boats and minecarts. ## Version Notes",
+    "confidence": 0.9,
+    "source_text": "# Blaze - Type: `Mob` - Mob type: `Monster` - Source: https://minecraft.wiki/w/Blaze - Retrieved at: `2026-08-23T00:00:00Z` ## Summary A fiery hostile mob found in Nether fortresses and the only source of blaze rods. ## Key Facts - It has 20 HP. - It spawns in Nether fortresses at light level 11 or less. - It attacks with three small fireballs or melee attacks. - It drops blaze rods and 10 XP when killed by a player or tamed wolf. - It can ride boats and minecarts. ## Version Notes",
+    "source_chunk_id": "minecraft-wiki-blaze_0",
+    "source_title": "Blaze",
+    "source_url": ""
+  },
+  {
+    "relation_type": "drops",
+    "subject_id": "minecraft:creeper",
+    "subject_name": "苦力怕",
+    "object_id": "minecraft:gunpowder",
+    "object_name": "火药",
+    "evidence_text": "# Creeper - Type: `Mob` - Mob type: `Monster` - Source: https://minecraft.wiki/w/Creeper - Retrieved at: `2026-08-23T00:00:00Z` ## Summary A hostile mob that silently approaches players and explodes when close. ## Key Facts - It has 20 HP. - It naturally spawns in the Overworld at light level 0. - Its explosion can destroy blocks and deal major damage. - A lightning strike can turn it into a charged creeper. - It drops gunpowder and can rarely drop music discs or creeper heads. ## Version Notes",
+    "confidence": 0.9,
+    "source_text": "# Creeper - Type: `Mob` - Mob type: `Monster` - Source: https://minecraft.wiki/w/Creeper - Retrieved at: `2026-08-23T00:00:00Z` ## Summary A hostile mob that silently approaches players and explodes when close. ## Key Facts - It has 20 HP. - It naturally spawns in the Overworld at light level 0. - Its explosion can destroy blocks and deal major damage. - A lightning strike can turn it into a charged creeper. - It drops gunpowder and can rarely drop music discs or creeper heads. ## Version Notes",
+    "source_chunk_id": "minecraft-wiki-creeper_4",
+    "source_title": "Creeper",
+    "source_url": ""
+  },
+  {
+    "relation_type": "spawns_in",
+    "subject_id": "minecraft:creeper",
+    "subject_name": "苦力怕",
+    "object_id": "minecraft:nether_fortress",
+    "object_name": "下界要塞",
+    "evidence_text": "# Creeper - Type: `Mob` - Mob type: `Monster` - Source: https://minecraft.wiki/w/Creeper - Retrieved at: `2026-08-23T00:00:00Z` ## Summary A hostile mob that silently approaches players and explodes when close. ## Key Facts - It has 20 HP. - It naturally spawns in the Overworld at light level 0. - Its explosion can destroy blocks and deal major damage. - A lightning strike can turn it into a charged creeper. - It drops gunpowder and can rarely drop music discs or creeper heads. ## Version Notes",
+    "confidence": 0.9,
+    "source_text": "# Creeper - Type: `Mob` - Mob type: `Monster` - Source: https://minecraft.wiki/w/Creeper - Retrieved at: `2026-08-23T00:00:00Z` ## Summary A hostile mob that silently approaches players and explodes when close. ## Key Facts - It has 20 HP. - It naturally spawns in the Overworld at light level 0. - Its explosion can destroy blocks and deal major damage. - A lightning strike can turn it into a charged creeper. - It drops gunpowder and can rarely drop music discs or creeper heads. ## Version Notes",
+    "source_chunk_id": "minecraft-wiki-creeper_4",
+    "source_title": "Creeper",
+    "source_url": ""
+  }
+]

@@ -1,0 +1,490 @@
+[
+  {
+    "id": 468750504229865339,
+    "chunk_id": "minecraft-wiki-blaze_0",
+    "content_type": "chunk",
+    "content": "Blaze: minecraft-wiki-blaze_0",
+    "metadata": {
+      "chunk_id": "minecraft-wiki-blaze_0",
+      "content_type": "chunk",
+      "source_id": "minecraft-wiki-blaze",
+      "title": "Blaze",
+      "metadata": {
+        "source_id": "minecraft-wiki-blaze",
+        "title": "Blaze",
+        "version": "",
+        "edition": "",
+        "chunk_type": "paragraph"
+      }
+    },
+    "source_id": "minecraft-wiki-blaze",
+    "title": "Blaze"
+  },
+  {
+    "id": 468750504229865340,
+    "chunk_id": "minecraft-wiki-blaze_1",
+    "content_type": "chunk",
+    "content": "Blaze: minecraft-wiki-blaze_1",
+    "metadata": {
+      "chunk_id": "minecraft-wiki-blaze_1",
+      "content_type": "chunk",
+      "source_id": "minecraft-wiki-blaze",
+      "title": "Blaze",
+      "metadata": {
+        "source_id": "minecraft-wiki-blaze",
+        "title": "Blaze",
+        "version": "",
+        "edition": "",
+        "chunk_type": "paragraph"
+      }
+    },
+    "source_id": "minecraft-wiki-blaze",
+    "title": "Blaze"
+  },
+  {
+    "id": 468750504229865341,
+    "chunk_id": "minecraft-wiki-crafting-table_2",
+    "content_type": "chunk",
+    "content": "Crafting Table: minecraft-wiki-crafting-table_2",
+    "metadata": {
+      "chunk_id": "minecraft-wiki-crafting-table_2",
+      "content_type": "chunk",
+      "source_id": "minecraft-wiki-crafting-table",
+      "title": "Crafting Table",
+      "metadata": {
+        "source_id": "minecraft-wiki-crafting-table",
+        "title": "Crafting Table",
+        "version": "",
+        "edition": "",
+        "chunk_type": "paragraph"
+      }
+    },
+    "source_id": "minecraft-wiki-crafting-table",
+    "title": "Crafting Table"
+  },
+  {
+    "id": 468750504229865342,
+    "chunk_id": "minecraft-wiki-crafting-table_3",
+    "content_type": "chunk",
+    "content": "Crafting Table: minecraft-wiki-crafting-table_3",
+    "metadata": {
+      "chunk_id": "minecraft-wiki-crafting-table_3",
+      "content_type": "chunk",
+      "source_id": "minecraft-wiki-crafting-table",
+      "title": "Crafting Table",
+      "metadata": {
+        "source_id": "minecraft-wiki-crafting-table",
+        "title": "Crafting Table",
+        "version": "",
+        "edition": "",
+        "chunk_type": "paragraph"
+      }
+    },
+    "source_id": "minecraft-wiki-crafting-table",
+    "title": "Crafting Table"
+  },
+  {
+    "id": 468750504229865343,
+    "chunk_id": "minecraft-wiki-creeper_4",
+    "content_type": "chunk",
+    "content": "Creeper: minecraft-wiki-creeper_4",
+    "metadata": {
+      "chunk_id": "minecraft-wiki-creeper_4",
+      "content_type": "chunk",
+      "source_id": "minecraft-wiki-creeper",
+      "title": "Creeper",
+      "metadata": {
+        "source_id": "minecraft-wiki-creeper",
+        "title": "Creeper",
+        "version": "",
+        "edition": "",
+        "chunk_type": "paragraph"
+      }
+    },
+    "source_id": "minecraft-wiki-creeper",
+    "title": "Creeper"
+  },
+  {
+    "id": 468750504229865344,
+    "chunk_id": "minecraft-wiki-creeper_5",
+    "content_type": "chunk",
+    "content": "Creeper: minecraft-wiki-creeper_5",
+    "metadata": {
+      "chunk_id": "minecraft-wiki-creeper_5",
+      "content_type": "chunk",
+      "source_id": "minecraft-wiki-creeper",
+      "title": "Creeper",
+      "metadata": {
+        "source_id": "minecraft-wiki-creeper",
+        "title": "Creeper",
+        "version": "",
+        "edition": "",
+        "chunk_type": "paragraph"
+      }
+    },
+    "source_id": "minecraft-wiki-creeper",
+    "title": "Creeper"
+  },
+  {
+    "id": 468750504229865345,
+    "chunk_id": "minecraft-wiki-diamond-pickaxe_6",
+    "content_type": "chunk",
+    "content": "Diamond Pickaxe: minecraft-wiki-diamond-pickaxe_6",
+    "metadata": {
+      "chunk_id": "minecraft-wiki-diamond-pickaxe_6",
+      "content_type": "chunk",
+      "source_id": "minecraft-wiki-diamond-pickaxe",
+      "title": "Diamond Pickaxe",
+      "metadata": {
+        "source_id": "minecraft-wiki-diamond-pickaxe",
+        "title": "Diamond Pickaxe",
+        "version": "",
+        "edition": "",
+        "chunk_type": "paragraph"
+      }
+    },
+    "source_id": "minecraft-wiki-diamond-pickaxe",
+    "title": "Diamond Pickaxe"
+  },
+  {
+    "id": 468750504229865346,
+    "chunk_id": "minecraft-wiki-diamond-pickaxe_7",
+    "content_type": "chunk",
+    "content": "Diamond Pickaxe: minecraft-wiki-diamond-pickaxe_7",
+    "metadata": {
+      "chunk_id": "minecraft-wiki-diamond-pickaxe_7",
+      "content_type": "chunk",
+      "source_id": "minecraft-wiki-diamond-pickaxe",
+      "title": "Diamond Pickaxe",
+      "metadata": {
+        "source_id": "minecraft-wiki-diamond-pickaxe",
+        "title": "Diamond Pickaxe",
+        "version": "",
+        "edition": "",
+        "chunk_type": "paragraph"
+      }
+    },
+    "source_id": "minecraft-wiki-diamond-pickaxe",
+    "title": "Diamond Pickaxe"
+  },
+  {
+    "id": 468750504229865347,
+    "chunk_id": "minecraft-wiki-nether-fortress_8",
+    "content_type": "chunk",
+    "content": "Nether Fortress: minecraft-wiki-nether-fortress_8",
+    "metadata": {
+      "chunk_id": "minecraft-wiki-nether-fortress_8",
+      "content_type": "chunk",
+      "source_id": "minecraft-wiki-nether-fortress",
+      "title": "Nether Fortress",
+      "metadata": {
+        "source_id": "minecraft-wiki-nether-fortress",
+        "title": "Nether Fortress",
+        "version": "",
+        "edition": "",
+        "chunk_type": "paragraph"
+      }
+    },
+    "source_id": "minecraft-wiki-nether-fortress",
+    "title": "Nether Fortress"
+  },
+  {
+    "id": 468750504229865348,
+    "chunk_id": "minecraft-wiki-nether-fortress_9",
+    "content_type": "chunk",
+    "content": "Nether Fortress: minecraft-wiki-nether-fortress_9",
+    "metadata": {
+      "chunk_id": "minecraft-wiki-nether-fortress_9",
+      "content_type": "chunk",
+      "source_id": "minecraft-wiki-nether-fortress",
+      "title": "Nether Fortress",
+      "metadata": {
+        "source_id": "minecraft-wiki-nether-fortress",
+        "title": "Nether Fortress",
+        "version": "",
+        "edition": "",
+        "chunk_type": "paragraph"
+      }
+    },
+    "source_id": "minecraft-wiki-nether-fortress",
+    "title": "Nether Fortress"
+  },
+  {
+    "id": 468750504229865349,
+    "chunk_id": "minecraft-wiki-the-nether_10",
+    "content_type": "chunk",
+    "content": "The Nether: minecraft-wiki-the-nether_10",
+    "metadata": {
+      "chunk_id": "minecraft-wiki-the-nether_10",
+      "content_type": "chunk",
+      "source_id": "minecraft-wiki-the-nether",
+      "title": "The Nether",
+      "metadata": {
+        "source_id": "minecraft-wiki-the-nether",
+        "title": "The Nether",
+        "version": "",
+        "edition": "",
+        "chunk_type": "paragraph"
+      }
+    },
+    "source_id": "minecraft-wiki-the-nether",
+    "title": "The Nether"
+  },
+  {
+    "id": 468750504229865350,
+    "chunk_id": "minecraft-wiki-the-nether_11",
+    "content_type": "chunk",
+    "content": "The Nether: minecraft-wiki-the-nether_11",
+    "metadata": {
+      "chunk_id": "minecraft-wiki-the-nether_11",
+      "content_type": "chunk",
+      "source_id": "minecraft-wiki-the-nether",
+      "title": "The Nether",
+      "metadata": {
+        "source_id": "minecraft-wiki-the-nether",
+        "title": "The Nether",
+        "version": "",
+        "edition": "",
+        "chunk_type": "paragraph"
+      }
+    },
+    "source_id": "minecraft-wiki-the-nether",
+    "title": "The Nether"
+  },
+  {
+    "id": 468750504229865351,
+    "chunk_id": "minecraft:type",
+    "content_type": "entity",
+    "content": "Blaze: minecraft:type",
+    "metadata": {
+      "chunk_id": "minecraft:type",
+      "content_type": "entity",
+      "source_id": "",
+      "title": "Blaze",
+      "metadata": {
+        "entity_type": "mob",
+        "entity_id": "minecraft:type",
+        "confidence": 0.8
+      }
+    },
+    "source_id": "",
+    "title": "Blaze"
+  },
+  {
+    "id": 468750504229865352,
+    "chunk_id": "minecraft:a_fiery_hostile",
+    "content_type": "entity",
+    "content": "Blaze: minecraft:a_fiery_hostile",
+    "metadata": {
+      "chunk_id": "minecraft:a_fiery_hostile",
+      "content_type": "entity",
+      "source_id": "",
+      "title": "Blaze",
+      "metadata": {
+        "entity_type": "mob",
+        "entity_id": "minecraft:a_fiery_hostile",
+        "confidence": 0.8
+      }
+    },
+    "source_id": "",
+    "title": "Blaze"
+  },
+  {
+    "id": 468750504229865353,
+    "chunk_id": "minecraft:it",
+    "content_type": "entity",
+    "content": "Blaze: minecraft:it",
+    "metadata": {
+      "chunk_id": "minecraft:it",
+      "content_type": "entity",
+      "source_id": "",
+      "title": "Blaze",
+      "metadata": {
+        "entity_type": "mob",
+        "entity_id": "minecraft:it",
+        "confidence": 0.8
+      }
+    },
+    "source_id": "",
+    "title": "Blaze"
+  },
+  {
+    "id": 468750504229865354,
+    "chunk_id": "minecraft:a_hostile",
+    "content_type": "entity",
+    "content": "Creeper: minecraft:a_hostile",
+    "metadata": {
+      "chunk_id": "minecraft:a_hostile",
+      "content_type": "entity",
+      "source_id": "",
+      "title": "Creeper",
+      "metadata": {
+        "entity_type": "mob",
+        "entity_id": "minecraft:a_hostile",
+        "confidence": 0.8
+      }
+    },
+    "source_id": "",
+    "title": "Creeper"
+  },
+  {
+    "id": 468750504229865355,
+    "chunk_id": "minecraft:diamond",
+    "content_type": "entity",
+    "content": "Diamond Pickaxe: minecraft:diamond",
+    "metadata": {
+      "chunk_id": "minecraft:diamond",
+      "content_type": "entity",
+      "source_id": "",
+      "title": "Diamond Pickaxe",
+      "metadata": {
+        "entity_type": "item",
+        "entity_id": "minecraft:diamond",
+        "confidence": 0.8
+      }
+    },
+    "source_id": "",
+    "title": "Diamond Pickaxe"
+  },
+  {
+    "id": 468750504229865356,
+    "chunk_id": "minecraft:a_large_nether",
+    "content_type": "entity",
+    "content": "Nether Fortress: minecraft:a_large_nether",
+    "metadata": {
+      "chunk_id": "minecraft:a_large_nether",
+      "content_type": "entity",
+      "source_id": "",
+      "title": "Nether Fortress",
+      "metadata": {
+        "entity_type": "structure",
+        "entity_id": "minecraft:a_large_nether",
+        "confidence": 0.8
+      }
+    },
+    "source_id": "",
+    "title": "Nether Fortress"
+  },
+  {
+    "id": 468750504229865357,
+    "chunk_id": "minecraft:regions_for_nether",
+    "content_type": "entity",
+    "content": "Nether Fortress: minecraft:regions_for_nether",
+    "metadata": {
+      "chunk_id": "minecraft:regions_for_nether",
+      "content_type": "entity",
+      "source_id": "",
+      "title": "Nether Fortress",
+      "metadata": {
+        "entity_type": "structure",
+        "entity_id": "minecraft:regions_for_nether",
+        "confidence": 0.8
+      }
+    },
+    "source_id": "",
+    "title": "Nether Fortress"
+  },
+  {
+    "id": 468750504229865358,
+    "chunk_id": "minecraft:a_dangerous_volcanic_fungal",
+    "content_type": "entity",
+    "content": "The Nether: minecraft:a_dangerous_volcanic_fungal",
+    "metadata": {
+      "chunk_id": "minecraft:a_dangerous_volcanic_fungal",
+      "content_type": "entity",
+      "source_id": "",
+      "title": "The Nether",
+      "metadata": {
+        "entity_type": "biome",
+        "entity_id": "minecraft:a_dangerous_volcanic_fungal",
+        "confidence": 0.8
+      }
+    },
+    "source_id": "",
+    "title": "The Nether"
+  },
+  {
+    "id": 468750504229865359,
+    "chunk_id": "minecraft-wiki-blaze_0",
+    "content_type": "fact",
+    "content": "Blaze: minecraft-wiki-blaze_0",
+    "metadata": {
+      "chunk_id": "minecraft-wiki-blaze_0",
+      "content_type": "fact",
+      "source_id": "",
+      "title": "Blaze",
+      "metadata": {
+        "relation_type": "drops",
+        "subject_id": "minecraft:blaze",
+        "object_id": "minecraft:blaze_rod",
+        "confidence": 0.9,
+        "evidence_text": "# Blaze - Type: `Mob` - Mob type: `Monster` - Source: https://minecraft.wiki/w/Blaze - Retrieved at: `2026-08-23T00:00:00Z` ## Summary A fiery hostile mob found in Nether fortresses and the only source of blaze rods. ## Key Facts - It has 20 HP. - It spawns in Nether fortresses at light level 11 or less. - It attacks with three small fireballs or melee attacks. - It drops blaze rods and 10 XP when killed by a player or tamed wolf. - It can ride boats and minecarts. ## Version Notes"
+      }
+    },
+    "source_id": "",
+    "title": "Blaze"
+  },
+  {
+    "id": 468750504229865360,
+    "chunk_id": "minecraft-wiki-blaze_0",
+    "content_type": "fact",
+    "content": "Blaze: minecraft-wiki-blaze_0",
+    "metadata": {
+      "chunk_id": "minecraft-wiki-blaze_0",
+      "content_type": "fact",
+      "source_id": "",
+      "title": "Blaze",
+      "metadata": {
+        "relation_type": "spawns_in",
+        "subject_id": "minecraft:blaze",
+        "object_id": "minecraft:nether_fortress",
+        "confidence": 0.9,
+        "evidence_text": "# Blaze - Type: `Mob` - Mob type: `Monster` - Source: https://minecraft.wiki/w/Blaze - Retrieved at: `2026-08-23T00:00:00Z` ## Summary A fiery hostile mob found in Nether fortresses and the only source of blaze rods. ## Key Facts - It has 20 HP. - It spawns in Nether fortresses at light level 11 or less. - It attacks with three small fireballs or melee attacks. - It drops blaze rods and 10 XP when killed by a player or tamed wolf. - It can ride boats and minecarts. ## Version Notes"
+      }
+    },
+    "source_id": "",
+    "title": "Blaze"
+  },
+  {
+    "id": 468750504229865361,
+    "chunk_id": "minecraft-wiki-creeper_4",
+    "content_type": "fact",
+    "content": "Creeper: minecraft-wiki-creeper_4",
+    "metadata": {
+      "chunk_id": "minecraft-wiki-creeper_4",
+      "content_type": "fact",
+      "source_id": "",
+      "title": "Creeper",
+      "metadata": {
+        "relation_type": "drops",
+        "subject_id": "minecraft:creeper",
+        "object_id": "minecraft:gunpowder",
+        "confidence": 0.9,
+        "evidence_text": "# Creeper - Type: `Mob` - Mob type: `Monster` - Source: https://minecraft.wiki/w/Creeper - Retrieved at: `2026-08-23T00:00:00Z` ## Summary A hostile mob that silently approaches players and explodes when close. ## Key Facts - It has 20 HP. - It naturally spawns in the Overworld at light level 0. - Its explosion can destroy blocks and deal major damage. - A lightning strike can turn it into a charged creeper. - It drops gunpowder and can rarely drop music discs or creeper heads. ## Version Notes"
+      }
+    },
+    "source_id": "",
+    "title": "Creeper"
+  },
+  {
+    "id": 468750504229865362,
+    "chunk_id": "minecraft-wiki-creeper_4",
+    "content_type": "fact",
+    "content": "Creeper: minecraft-wiki-creeper_4",
+    "metadata": {
+      "chunk_id": "minecraft-wiki-creeper_4",
+      "content_type": "fact",
+      "source_id": "",
+      "title": "Creeper",
+      "metadata": {
+        "relation_type": "spawns_in",
+        "subject_id": "minecraft:creeper",
+        "object_id": "minecraft:nether_fortress",
+        "confidence": 0.9,
+        "evidence_text": "# Creeper - Type: `Mob` - Mob type: `Monster` - Source: https://minecraft.wiki/w/Creeper - Retrieved at: `2026-08-23T00:00:00Z` ## Summary A hostile mob that silently approaches players and explodes when close. ## Key Facts - It has 20 HP. - It naturally spawns in the Overworld at light level 0. - Its explosion can destroy blocks and deal major damage. - A lightning strike can turn it into a charged creeper. - It drops gunpowder and can rarely drop music discs or creeper heads. ## Version Notes"
+      }
+    },
+    "source_id": "",
+    "title": "Creeper"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "id": "minecraft-java-data-1.21.1",
+    "title": "Minecraft Java Edition 1.21.1 game data",
+    "source_url": "https://www.minecraft.net/",
+    "license": "Mojang game data; use subject to applicable terms",
+    "attribution": "Minecraft Java Edition game data",
+    "retrieved_at": "2026-08-22T00:00:00Z",
+    "edition": "java",
+    "version_range": "1.21.x",
+    "structured": true
+  },
+  {
+    "id": "minecraft-wiki-creeper-2026-08-23",
+    "title": "Creeper",
+    "source_url": "https://minecraft.wiki/w/Creeper",
+    "license": "Minecraft Wiki content; verify reuse terms before redistribution",
+    "attribution": "Minecraft Wiki",
+    "retrieved_at": "2026-08-23T00:00:00Z",
+    "edition": "java",
+    "version_range": "1.21.x",
+    "structured": true
+  },
+  {
+    "id": "minecraft-wiki-blaze-2026-08-23",
+    "title": "Blaze",
+    "source_url": "https://minecraft.wiki/w/Blaze",
+    "license": "Minecraft Wiki content; verify reuse terms before redistribution",
+    "attribution": "Minecraft Wiki",
+    "retrieved_at": "2026-08-23T00:00:00Z",
+    "edition": "java",
+    "version_range": "1.21.x",
+    "structured": true
+  },
+  {
+    "id": "minecraft-wiki-diamond-pickaxe-2026-08-23",
+    "title": "Diamond Pickaxe",
+    "source_url": "https://minecraft.wiki/w/Diamond_Pickaxe",
+    "license": "Minecraft Wiki content; verify reuse terms before redistribution",
+    "attribution": "Minecraft Wiki",
+    "retrieved_at": "2026-08-23T00:00:00Z",
+    "edition": "java",
+    "version_range": "1.21.x",
+    "structured": true
+  },
+  {
+    "id": "minecraft-wiki-crafting-table-2026-08-23",
+    "title": "Crafting Table",
+    "source_url": "https://minecraft.wiki/w/Crafting_Table",
+    "license": "Minecraft Wiki content; verify reuse terms before redistribution",
+    "attribution": "Minecraft Wiki",
+    "retrieved_at": "2026-08-23T00:00:00Z",
+    "edition": "java",
+    "version_range": "1.21.x",
+    "structured": true
+  },
+  {
+    "id": "minecraft-wiki-the-nether-2026-08-23",
+    "title": "The Nether",
+    "source_url": "https://minecraft.wiki/w/The_Nether",
+    "license": "Minecraft Wiki content; verify reuse terms before redistribution",
+    "attribution": "Minecraft Wiki",
+    "retrieved_at": "2026-08-23T00:00:00Z",
+    "edition": "java",
+    "version_range": "1.21.x",
+    "structured": true
+  },
+  {
+    "id": "minecraft-wiki-nether-fortress-2026-08-23",
+    "title": "Nether Fortress",
+    "source_url": "https://minecraft.wiki/w/Nether_Fortress",
+    "license": "Minecraft Wiki content; verify reuse terms before redistribution",
+    "attribution": "Minecraft Wiki",
+    "retrieved_at": "2026-08-23T00:00:00Z",
+    "edition": "java",
+    "version_range": "1.21.x",
+    "structured": true
+  }
+]

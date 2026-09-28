@@ -1,0 +1,31 @@
+# Minecraft GraphRAG 数据处理依赖
+
+# 向量数据库
+pymilvus>=2.3.0
+
+# 文本嵌入模型
+sentence-transformers>=2.2.2
+torch>=2.0.0
+
+# 文本处理
+jieba>=0.42.1  # 中文分词
+nltk>=3.8.1    # 自然语言处理
+
+# 数据处理
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+
+# 数据存储
+pymysql>=1.1.0  # MySQL连接
+redis>=4.6.0    # Redis连接
+
+# 工具库
+tqdm>=4.65.0   # 进度条
+python-dotenv>=1.0.0  # 环境变量
+openai>=1.0.0  # 百炼 OpenAI 兼容接口
+langchain-core>=0.1.0  # 检索策略提示模板
+
+# 可选依赖
+# neo4j>=4.4.0  # Neo4j数据库（如果需要）
+# langchain>=0.0.300  # LangChain框架（如果需要）

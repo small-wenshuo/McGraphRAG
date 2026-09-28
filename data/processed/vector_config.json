@@ -1,0 +1,12 @@
+{
+  "collection_name": "mc_123",
+  "model_name": "BAAI/bge-m3",
+  "embedding_dim": 1024,
+  "milvus_config": {
+    "host": "localhost",
+    "port": 19530,
+    "database_name": "mcrag",
+    "collection_name": "mc_123"
+  },
+  "created_at": "2026-09-27T07:58:39"
+}
